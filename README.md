@@ -1,4 +1,8 @@
 [![Build Status](https://travis-ci.org/Esri/geometry-api-java.png?branch=master)](https://travis-ci.org/Esri/geometry-api-java)
+
+
+![Image alt](https://covers.oreillystatic.com/images/0636920035091/lrg.jpg) 
+
 https://github.com/Esri/geometry-api-java
 
 # geometry-api-java
