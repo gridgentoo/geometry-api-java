@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/Esri/geometry-api-java.png?branch=master)](https://travis-ci.org/Esri/geometry-api-java)
-Глава 8. Анализ геопространственных и временных данных на примере поездок Нью_Йоркского такси (Spark)
-
 
 ![Image alt](https://covers.oreillystatic.com/images/0636920035091/lrg.jpg) 
+
+Глава 8. Анализ геопространственных и временных данных на примере поездок Нью_Йоркского такси (Spark)
 
 https://github.com/Esri/geometry-api-java
 
